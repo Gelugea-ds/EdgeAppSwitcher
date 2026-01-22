@@ -51,6 +51,8 @@ Block from bottom (%)
 Hover delay (ms)
 Cooldown (ms)
 Click Apply to update the behavior instantly.
+### Settings Panel
+![Settings](screenshots/settings.png)
 
 
 🟢 Guide Lines
@@ -58,7 +60,8 @@ Click Apply to update the behavior instantly.
 Green lines show exact active trigger zones
 They move live while adjusting sliders
 You can hide them after configuration using "Show Guide Lines"
-
+### Guide Lines
+![Guides](screenshots/guides.png)
 
 🧠 Example Use Case
 
